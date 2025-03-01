@@ -25,7 +25,8 @@ All coding projects are built from the ground up, from planning and designing al
 ## 🥅 2025 Goals:
 
 - Learn more about web3
-- Learn Html,Css, Python And JS
+- Learn Full Stack
+- Learn Cyber Security
 
 ## 🔗 Links
 
