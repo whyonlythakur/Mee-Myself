@@ -9,7 +9,7 @@
 Hey there! I'm a curious individual with a strong desire to explore as much as I can, 
 whether it's related to my profession or the world around me.
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code, 
 Gaming & Travelling is my side hobby, Loves Spending Time in Nature. 
 ## 🧐 About
 
