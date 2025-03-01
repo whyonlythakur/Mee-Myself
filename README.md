@@ -1,22 +1,25 @@
 <!-- Main Heading  -->
 
-# ॐ DEVRATA
+# DEVRATA
 
 <!-- Intro -->
 
 **`Digital Craftsman (Developer/Content Creator/ Gamer)`**
 
-Hey there, I'm an indie backend developer (wanna be full-stack developer soon tough 😅). All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Gaming is my side hobby. 
+Hey there! I'm a curious individual with a strong desire to explore as much as I can, 
+whether it's related to my profession or the world around me.
+
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Gaming is my side hobby. 
 ## 🧐 About
 
 - Community guy who loves being involved in communities and help them grow
-- I love creating discord bot projects using [Discord.js library](https://discord.js.org/#/) and Python projects.
-- I'm a Collage Student.
-- I'm currently learning about html,Css,Javascript And Python
+- I Used to  love creating discord bot projects using [Discord.js library](https://discord.js.org/#/) and Python (2019-2022.
+- I'm a Graduated.
+- I'm currently learning about Full Stack
 - Ask me about anything and everything
 - Contact me:
   - Discord ID: [DEV</>][discord-user-id]
-  - Discord Server: [Chacha Bhatija][discord-server-invite-link]
+  - Discord Server: [Explore With Deva][discord-server-invite-link]
 
 
 ## 🥅 2025 Goals:
@@ -113,4 +116,4 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 
 [youtube]: https://youtube.com/@Why_thakur
 [discord-user-id]: https://discordapp.com/users/1087346593235210311
-[discord-server-invite-link]: https://discord.gg/CmQAqbJqsJ
+[discord-server-invite-link]: https://discord.gg/HktT4vVrE5J
