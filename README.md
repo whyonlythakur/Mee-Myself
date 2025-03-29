@@ -1,6 +1,6 @@
 <!-- Main Heading  -->
 
-# DEVRATA
+# WAZEIR
 
 <!-- Intro -->
 
@@ -19,7 +19,7 @@ Gaming & Travelling is my side hobby, Loves Spending Time in Nature.
 - I'm currently learning about Full Stack
 - Ask me about anything and everything
 - Contact me:
-  - Discord ID: [DEV</>][discord-user-id]
+  - Discord ID: [♚Wazeir][discord-user-id]
   - Discord Server: [Explore With Deva][discord-server-invite-link]
 
 
